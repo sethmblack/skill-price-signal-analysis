@@ -1,11 +1,9 @@
 ---
 name: price-signal-analysis
-description: Analyze how prices (or price-like signals) communicate information and
-  coordinate behavior in any system. Diagnose failures when price signals are suppressed
-  or distorted.
+description: Analyze how prices (or price-like signals) communicate information and coordinate behavior in any system. Diagnose failures when price signals are suppressed or distorted.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - price-signal-analysis
